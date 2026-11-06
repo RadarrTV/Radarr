@@ -30,45 +30,7 @@ Whether you're building a home media server or maintaining a large movie collect
 
 ---
 
-## ✨ Key Features
 
-| Feature | Description |
-|---|---|
-| 🎥 Movie Management | Add, track, and organize movies in one library. |
-| 🔎 Release Search | Search for available releases through configured indexers. |
-| ⚙️ Automation | Monitor feeds and automate supported download workflows. |
-| 📂 Library Organization | Automatically import and organize completed downloads. |
-| 🎞️ Quality Profiles | Configure preferred qualities and release requirements. |
-| ⬆️ Quality Upgrades | Upgrade existing movie files when better releases match your settings. |
-| 🔄 Download Integration | Connect compatible download clients, including supported BitTorrent and Usenet applications. |
-| 🏷️ Metadata Management | Work with movie information, artwork, and library metadata. |
-| 🔔 Media Server Integration | Integrate with supported media applications for notifications and library updates. |
-| 🖥️ Cross-Platform Support | Available for Windows, Linux, macOS, and selected other platforms. |
-
----
-
-## 🚀 Getting Started
-
-### 1. Download Radarr
-
-
-
----
-
-## 🧩 How Radarr Works
-
-A typical Radarr workflow looks like this:
-
-1. **Add a movie** to your collection.
-2. **Configure your preferences** for quality and availability.
-3. **Search for releases** using configured indexers and monitoring options.
-4. **Manage downloads** through a compatible download client.
-5. **Import completed files** into the appropriate movie library folder.
-6. **Maintain your collection** with metadata, organization, and quality upgrades.
-
-The exact workflow depends on your configuration, available indexers, download clients, and quality profiles.
-
----
 
 ## 💻 System Compatibility
 
